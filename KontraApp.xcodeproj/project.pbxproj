@@ -7,60 +7,59 @@
   	objects = {
 
   /* Begin PBXBuildFile section */
-  		BF0000000000000000000001 /* KontraApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = SR0000000000000000000001 /* KontraApp.swift */; };
-		BF0000000000000000000002 /* APIClient.swift in Sources */ = {isa = PBXBuildFile; fileRef = SR0000000000000000000002 /* APIClient.swift */; };
-		BF0000000000000000000003 /* APIModels.swift in Sources */ = {isa = PBXBuildFile; fileRef = SR0000000000000000000003 /* APIModels.swift */; };
-		BF0000000000000000000004 /* AuthManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = SR0000000000000000000004 /* AuthManager.swift */; };
-		BF0000000000000000000005 /* KeychainHelper.swift in Sources */ = {isa = PBXBuildFile; fileRef = SR0000000000000000000005 /* KeychainHelper.swift */; };
-		BF0000000000000000000006 /* KontraTheme.swift in Sources */ = {isa = PBXBuildFile; fileRef = SR0000000000000000000006 /* KontraTheme.swift */; };
-		BF0000000000000000000007 /* LoginView.swift in Sources */ = {isa = PBXBuildFile; fileRef = SR0000000000000000000007 /* LoginView.swift */; };
-		BF0000000000000000000008 /* MainTabView.swift in Sources */ = {isa = PBXBuildFile; fileRef = SR0000000000000000000008 /* MainTabView.swift */; };
-		BF0000000000000000000009 /* DashboardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = SR0000000000000000000009 /* DashboardView.swift */; };
-		BF0000000000000000000010 /* PortfolioView.swift in Sources */ = {isa = PBXBuildFile; fileRef = SR0000000000000000000010 /* PortfolioView.swift */; };
-		BF0000000000000000000011 /* LoansView.swift in Sources */ = {isa = PBXBuildFile; fileRef = SR0000000000000000000011 /* LoansView.swift */; };
-		BF0000000000000000000012 /* AssetsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = SR0000000000000000000012 /* AssetsView.swift */; };
-		BF0000000000000000000013 /* LoanDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = SR0000000000000000000013 /* LoanDetailView.swift */; };
-		BF0000000000000000000014 /* ServicingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = SR0000000000000000000014 /* ServicingView.swift */; };
-		BF0000000000000000000015 /* GovernanceView.swift in Sources */ = {isa = PBXBuildFile; fileRef = SR0000000000000000000015 /* GovernanceView.swift */; };
-		BF0000000000000000000016 /* MarketsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = SR0000000000000000000016 /* MarketsView.swift */; };
-		BF0000000000000000000017 /* PoolsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = SR0000000000000000000017 /* PoolsView.swift */; };
-		BF0000000000000000000018 /* AIInsightsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = SR0000000000000000000018 /* AIInsightsView.swift */; };
-		BF0000000000000000000019 /* SettingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = SR0000000000000000000019 /* SettingsView.swift */; };
-		BF0000000000000000000020 /* EntityListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = SR0000000000000000000020 /* EntityListView.swift */; };
-		BF0000000000000000000021 /* CreateEntitySheet.swift in Sources */ = {isa = PBXBuildFile; fileRef = SR0000000000000000000021 /* CreateEntitySheet.swift */; };
-		BF0000000000000000000022 /* Date+Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = SR0000000000000000000022 /* Date+Extensions.swift */; };
-		QQ000000000000000000000000 /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = PP000000000000000000000000 /* Info.plist */; };
+  		CC0000000000000000000001 /* KontraApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = BB0000000000000000000001 /* KontraApp.swift */; };
+		CC0000000000000000000002 /* APIClient.swift in Sources */ = {isa = PBXBuildFile; fileRef = BB0000000000000000000002 /* APIClient.swift */; };
+		CC0000000000000000000003 /* APIModels.swift in Sources */ = {isa = PBXBuildFile; fileRef = BB0000000000000000000003 /* APIModels.swift */; };
+		CC0000000000000000000004 /* AuthManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = BB0000000000000000000004 /* AuthManager.swift */; };
+		CC0000000000000000000005 /* KeychainHelper.swift in Sources */ = {isa = PBXBuildFile; fileRef = BB0000000000000000000005 /* KeychainHelper.swift */; };
+		CC0000000000000000000006 /* KontraTheme.swift in Sources */ = {isa = PBXBuildFile; fileRef = BB0000000000000000000006 /* KontraTheme.swift */; };
+		CC0000000000000000000007 /* LoginView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BB0000000000000000000007 /* LoginView.swift */; };
+		CC0000000000000000000008 /* MainTabView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BB0000000000000000000008 /* MainTabView.swift */; };
+		CC0000000000000000000009 /* DashboardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BB0000000000000000000009 /* DashboardView.swift */; };
+		CC0000000000000000000010 /* PortfolioView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BB0000000000000000000010 /* PortfolioView.swift */; };
+		CC0000000000000000000011 /* LoansView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BB0000000000000000000011 /* LoansView.swift */; };
+		CC0000000000000000000012 /* AssetsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BB0000000000000000000012 /* AssetsView.swift */; };
+		CC0000000000000000000013 /* LoanDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BB0000000000000000000013 /* LoanDetailView.swift */; };
+		CC0000000000000000000014 /* ServicingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BB0000000000000000000014 /* ServicingView.swift */; };
+		CC0000000000000000000015 /* GovernanceView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BB0000000000000000000015 /* GovernanceView.swift */; };
+		CC0000000000000000000016 /* MarketsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BB0000000000000000000016 /* MarketsView.swift */; };
+		CC0000000000000000000017 /* PoolsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BB0000000000000000000017 /* PoolsView.swift */; };
+		CC0000000000000000000018 /* AIInsightsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BB0000000000000000000018 /* AIInsightsView.swift */; };
+		CC0000000000000000000019 /* SettingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BB0000000000000000000019 /* SettingsView.swift */; };
+		CC0000000000000000000020 /* EntityListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BB0000000000000000000020 /* EntityListView.swift */; };
+		CC0000000000000000000021 /* CreateEntitySheet.swift in Sources */ = {isa = PBXBuildFile; fileRef = BB0000000000000000000021 /* CreateEntitySheet.swift */; };
+		CC0000000000000000000022 /* Date+Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = BB0000000000000000000022 /* Date+Extensions.swift */; };
 /* End PBXBuildFile section */
 
   /* Begin PBXFileReference section */
-  		SR0000000000000000000001 /* KontraApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "KontraApp.swift"; sourceTree = "<group>"; };
-		SR0000000000000000000002 /* APIClient.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "APIClient.swift"; sourceTree = "<group>"; };
-		SR0000000000000000000003 /* APIModels.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "APIModels.swift"; sourceTree = "<group>"; };
-		SR0000000000000000000004 /* AuthManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "AuthManager.swift"; sourceTree = "<group>"; };
-		SR0000000000000000000005 /* KeychainHelper.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "KeychainHelper.swift"; sourceTree = "<group>"; };
-		SR0000000000000000000006 /* KontraTheme.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "KontraTheme.swift"; sourceTree = "<group>"; };
-		SR0000000000000000000007 /* LoginView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "LoginView.swift"; sourceTree = "<group>"; };
-		SR0000000000000000000008 /* MainTabView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "MainTabView.swift"; sourceTree = "<group>"; };
-		SR0000000000000000000009 /* DashboardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "DashboardView.swift"; sourceTree = "<group>"; };
-		SR0000000000000000000010 /* PortfolioView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "PortfolioView.swift"; sourceTree = "<group>"; };
-		SR0000000000000000000011 /* LoansView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "LoansView.swift"; sourceTree = "<group>"; };
-		SR0000000000000000000012 /* AssetsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "AssetsView.swift"; sourceTree = "<group>"; };
-		SR0000000000000000000013 /* LoanDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "LoanDetailView.swift"; sourceTree = "<group>"; };
-		SR0000000000000000000014 /* ServicingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "ServicingView.swift"; sourceTree = "<group>"; };
-		SR0000000000000000000015 /* GovernanceView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "GovernanceView.swift"; sourceTree = "<group>"; };
-		SR0000000000000000000016 /* MarketsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "MarketsView.swift"; sourceTree = "<group>"; };
-		SR0000000000000000000017 /* PoolsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "PoolsView.swift"; sourceTree = "<group>"; };
-		SR0000000000000000000018 /* AIInsightsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "AIInsightsView.swift"; sourceTree = "<group>"; };
-		SR0000000000000000000019 /* SettingsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "SettingsView.swift"; sourceTree = "<group>"; };
-		SR0000000000000000000020 /* EntityListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "EntityListView.swift"; sourceTree = "<group>"; };
-		SR0000000000000000000021 /* CreateEntitySheet.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "CreateEntitySheet.swift"; sourceTree = "<group>"; };
-		SR0000000000000000000022 /* Date+Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Date+Extensions.swift"; sourceTree = "<group>"; };
-		PP000000000000000000000000 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		CC000000000000000000000000 /* KontraApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = KontraApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
+  		BB0000000000000000000001 /* KontraApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "KontraApp.swift"; sourceTree = "<group>"; };
+		BB0000000000000000000002 /* APIClient.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "APIClient.swift"; sourceTree = "<group>"; };
+		BB0000000000000000000003 /* APIModels.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "APIModels.swift"; sourceTree = "<group>"; };
+		BB0000000000000000000004 /* AuthManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "AuthManager.swift"; sourceTree = "<group>"; };
+		BB0000000000000000000005 /* KeychainHelper.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "KeychainHelper.swift"; sourceTree = "<group>"; };
+		BB0000000000000000000006 /* KontraTheme.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "KontraTheme.swift"; sourceTree = "<group>"; };
+		BB0000000000000000000007 /* LoginView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "LoginView.swift"; sourceTree = "<group>"; };
+		BB0000000000000000000008 /* MainTabView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "MainTabView.swift"; sourceTree = "<group>"; };
+		BB0000000000000000000009 /* DashboardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "DashboardView.swift"; sourceTree = "<group>"; };
+		BB0000000000000000000010 /* PortfolioView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "PortfolioView.swift"; sourceTree = "<group>"; };
+		BB0000000000000000000011 /* LoansView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "LoansView.swift"; sourceTree = "<group>"; };
+		BB0000000000000000000012 /* AssetsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "AssetsView.swift"; sourceTree = "<group>"; };
+		BB0000000000000000000013 /* LoanDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "LoanDetailView.swift"; sourceTree = "<group>"; };
+		BB0000000000000000000014 /* ServicingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "ServicingView.swift"; sourceTree = "<group>"; };
+		BB0000000000000000000015 /* GovernanceView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "GovernanceView.swift"; sourceTree = "<group>"; };
+		BB0000000000000000000016 /* MarketsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "MarketsView.swift"; sourceTree = "<group>"; };
+		BB0000000000000000000017 /* PoolsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "PoolsView.swift"; sourceTree = "<group>"; };
+		BB0000000000000000000018 /* AIInsightsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "AIInsightsView.swift"; sourceTree = "<group>"; };
+		BB0000000000000000000019 /* SettingsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "SettingsView.swift"; sourceTree = "<group>"; };
+		BB0000000000000000000020 /* EntityListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "EntityListView.swift"; sourceTree = "<group>"; };
+		BB0000000000000000000021 /* CreateEntitySheet.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "CreateEntitySheet.swift"; sourceTree = "<group>"; };
+		BB0000000000000000000022 /* Date+Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Date+Extensions.swift"; sourceTree = "<group>"; };
+		AA000000000000000000000033 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		AA000000000000000000000003 /* KontraApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = KontraApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
   /* Begin PBXFrameworksBuildPhase section */
-  		FF000000000000000000000000 /* Frameworks */ = {
+  		AA000000000000000000000006 /* Frameworks */ = {
   			isa = PBXFrameworksBuildPhase;
   			buildActionMask = 2147483647;
   			files = (
@@ -70,197 +69,201 @@
   /* End PBXFrameworksBuildPhase section */
 
   /* Begin PBXGroup section */
-  		GG000000000000000000000000 = {
+  		AA000000000000000000000013 = {
   			isa = PBXGroup;
   			children = (
-  				II000000000000000000000000 /* KontraApp */,
-  				HH000000000000000000000000 /* Products */,
+  				AA000000000000000000000014 /* KontraApp */,
+  				AA000000000000000000000015 /* Products */,
   			);
   			sourceTree = "<group>";
   		};
-  		HH000000000000000000000000 /* Products */ = {
+  		AA000000000000000000000015 /* Products */ = {
   			isa = PBXGroup;
   			children = (
-  				CC000000000000000000000000 /* KontraApp.app */,
+  				AA000000000000000000000003 /* KontraApp.app */,
   			);
   			name = Products;
   			sourceTree = "<group>";
   		};
-  		GRP000000000000000000001 /* KontraApp */ = {
+  		AA000000000000000000000014 /* KontraApp */ = {
+  			isa = PBXGroup;
+  			children = (
+  				AA000000000000000000000016 /* Core */,
+  				AA000000000000000000000020 /* Features */,
+  				AA000000000000000000000030 /* Shared */,
+  				BB0000000000000000000001 /* KontraApp.swift */,
+  				AA000000000000000000000033 /* Info.plist */,
+  			);
+  			name = "KontraApp";
+  			path = "KontraApp";
+  			sourceTree = "<group>";
+  		};
+  		AA000000000000000000000016 /* Core */ = {
 			isa = PBXGroup;
 			children = (
-				SR0000000000000000000001 /* KontraApp.swift */,
-				PP000000000000000000000000 /* Info.plist */,
-			);
-			path = KontraApp;
-			sourceTree = "<group>";
-		};
-		GRP000000000000000000005 /* Core */ = {
-			isa = PBXGroup;
-			children = (
-				GRP000000000000000000002 /* Network */,
-				GRP000000000000000000003 /* Auth */,
-				GRP000000000000000000004 /* Theme */,
+				AA000000000000000000000017 /* Network */,
+				AA000000000000000000000018 /* Auth */,
+				AA000000000000000000000019 /* Theme */,
 			);
 			name = "Core";
 			path = "Core";
 			sourceTree = "<group>";
 		};
-		GRP000000000000000000002 /* Network */ = {
+		AA000000000000000000000017 /* Network */ = {
 			isa = PBXGroup;
 			children = (
-				SR0000000000000000000002 /* APIClient.swift */,
-				SR0000000000000000000003 /* APIModels.swift */,
+				BB0000000000000000000002 /* APIClient.swift */,
+				BB0000000000000000000003 /* APIModels.swift */,
 			);
 			name = "Network";
 			path = "Network";
 			sourceTree = "<group>";
 		};
-		GRP000000000000000000003 /* Auth */ = {
+		AA000000000000000000000018 /* Auth */ = {
 			isa = PBXGroup;
 			children = (
-				SR0000000000000000000004 /* AuthManager.swift */,
-				SR0000000000000000000005 /* KeychainHelper.swift */,
+				BB0000000000000000000004 /* AuthManager.swift */,
+				BB0000000000000000000005 /* KeychainHelper.swift */,
 			);
 			name = "Auth";
 			path = "Auth";
 			sourceTree = "<group>";
 		};
-		GRP000000000000000000004 /* Theme */ = {
+		AA000000000000000000000019 /* Theme */ = {
 			isa = PBXGroup;
 			children = (
-				SR0000000000000000000006 /* KontraTheme.swift */,
+				BB0000000000000000000006 /* KontraTheme.swift */,
 			);
 			name = "Theme";
 			path = "Theme";
 			sourceTree = "<group>";
 		};
-		GRP000000000000000000015 /* Features */ = {
+		AA000000000000000000000020 /* Features */ = {
 			isa = PBXGroup;
 			children = (
-				GRP000000000000000000006 /* Login */,
-				GRP000000000000000000007 /* Main */,
-				GRP000000000000000000008 /* Dashboard */,
-				GRP000000000000000000009 /* Portfolio */,
-				GRP000000000000000000010 /* Servicing */,
-				GRP000000000000000000011 /* Governance */,
-				GRP000000000000000000012 /* Markets */,
-				GRP000000000000000000013 /* AI */,
-				GRP000000000000000000014 /* Settings */,
+				AA000000000000000000000021 /* Login */,
+				AA000000000000000000000022 /* Main */,
+				AA000000000000000000000023 /* Dashboard */,
+				AA000000000000000000000024 /* Portfolio */,
+				AA000000000000000000000025 /* Servicing */,
+				AA000000000000000000000026 /* Governance */,
+				AA000000000000000000000027 /* Markets */,
+				AA000000000000000000000028 /* AI */,
+				AA000000000000000000000029 /* Settings */,
 			);
 			name = "Features";
 			path = "Features";
 			sourceTree = "<group>";
 		};
-		GRP000000000000000000006 /* Login */ = {
+		AA000000000000000000000021 /* Login */ = {
 			isa = PBXGroup;
 			children = (
-				SR0000000000000000000007 /* LoginView.swift */,
+				BB0000000000000000000007 /* LoginView.swift */,
 			);
 			name = "Login";
 			path = "Login";
 			sourceTree = "<group>";
 		};
-		GRP000000000000000000007 /* Main */ = {
+		AA000000000000000000000022 /* Main */ = {
 			isa = PBXGroup;
 			children = (
-				SR0000000000000000000008 /* MainTabView.swift */,
+				BB0000000000000000000008 /* MainTabView.swift */,
 			);
 			name = "Main";
 			path = "Main";
 			sourceTree = "<group>";
 		};
-		GRP000000000000000000008 /* Dashboard */ = {
+		AA000000000000000000000023 /* Dashboard */ = {
 			isa = PBXGroup;
 			children = (
-				SR0000000000000000000009 /* DashboardView.swift */,
+				BB0000000000000000000009 /* DashboardView.swift */,
 			);
 			name = "Dashboard";
 			path = "Dashboard";
 			sourceTree = "<group>";
 		};
-		GRP000000000000000000009 /* Portfolio */ = {
+		AA000000000000000000000024 /* Portfolio */ = {
 			isa = PBXGroup;
 			children = (
-				SR0000000000000000000010 /* PortfolioView.swift */,
-				SR0000000000000000000011 /* LoansView.swift */,
-				SR0000000000000000000012 /* AssetsView.swift */,
-				SR0000000000000000000013 /* LoanDetailView.swift */,
+				BB0000000000000000000010 /* PortfolioView.swift */,
+				BB0000000000000000000011 /* LoansView.swift */,
+				BB0000000000000000000012 /* AssetsView.swift */,
+				BB0000000000000000000013 /* LoanDetailView.swift */,
 			);
 			name = "Portfolio";
 			path = "Portfolio";
 			sourceTree = "<group>";
 		};
-		GRP000000000000000000010 /* Servicing */ = {
+		AA000000000000000000000025 /* Servicing */ = {
 			isa = PBXGroup;
 			children = (
-				SR0000000000000000000014 /* ServicingView.swift */,
+				BB0000000000000000000014 /* ServicingView.swift */,
 			);
 			name = "Servicing";
 			path = "Servicing";
 			sourceTree = "<group>";
 		};
-		GRP000000000000000000011 /* Governance */ = {
+		AA000000000000000000000026 /* Governance */ = {
 			isa = PBXGroup;
 			children = (
-				SR0000000000000000000015 /* GovernanceView.swift */,
+				BB0000000000000000000015 /* GovernanceView.swift */,
 			);
 			name = "Governance";
 			path = "Governance";
 			sourceTree = "<group>";
 		};
-		GRP000000000000000000012 /* Markets */ = {
+		AA000000000000000000000027 /* Markets */ = {
 			isa = PBXGroup;
 			children = (
-				SR0000000000000000000016 /* MarketsView.swift */,
-				SR0000000000000000000017 /* PoolsView.swift */,
+				BB0000000000000000000016 /* MarketsView.swift */,
+				BB0000000000000000000017 /* PoolsView.swift */,
 			);
 			name = "Markets";
 			path = "Markets";
 			sourceTree = "<group>";
 		};
-		GRP000000000000000000013 /* AI */ = {
+		AA000000000000000000000028 /* AI */ = {
 			isa = PBXGroup;
 			children = (
-				SR0000000000000000000018 /* AIInsightsView.swift */,
+				BB0000000000000000000018 /* AIInsightsView.swift */,
 			);
 			name = "AI";
 			path = "AI";
 			sourceTree = "<group>";
 		};
-		GRP000000000000000000014 /* Settings */ = {
+		AA000000000000000000000029 /* Settings */ = {
 			isa = PBXGroup;
 			children = (
-				SR0000000000000000000019 /* SettingsView.swift */,
+				BB0000000000000000000019 /* SettingsView.swift */,
 			);
 			name = "Settings";
 			path = "Settings";
 			sourceTree = "<group>";
 		};
-		GRP000000000000000000018 /* Shared */ = {
+		AA000000000000000000000030 /* Shared */ = {
 			isa = PBXGroup;
 			children = (
-				GRP000000000000000000016 /* Components */,
-				GRP000000000000000000017 /* Extensions */,
+				AA000000000000000000000031 /* Components */,
+				AA000000000000000000000032 /* Extensions */,
 			);
 			name = "Shared";
 			path = "Shared";
 			sourceTree = "<group>";
 		};
-		GRP000000000000000000016 /* Components */ = {
+		AA000000000000000000000031 /* Components */ = {
 			isa = PBXGroup;
 			children = (
-				SR0000000000000000000020 /* EntityListView.swift */,
-				SR0000000000000000000021 /* CreateEntitySheet.swift */,
+				BB0000000000000000000020 /* EntityListView.swift */,
+				BB0000000000000000000021 /* CreateEntitySheet.swift */,
 			);
 			name = "Components";
 			path = "Components";
 			sourceTree = "<group>";
 		};
-		GRP000000000000000000017 /* Extensions */ = {
+		AA000000000000000000000032 /* Extensions */ = {
 			isa = PBXGroup;
 			children = (
-				SR0000000000000000000022 /* Date+Extensions.swift */,
+				BB0000000000000000000022 /* Date+Extensions.swift */,
 			);
 			name = "Extensions";
 			path = "Extensions";
@@ -269,207 +272,144 @@
 /* End PBXGroup section */
 
   /* Begin PBXNativeTarget section */
-  		BB000000000000000000000000 /* KontraApp */ = {
+  		AA000000000000000000000002 /* KontraApp */ = {
   			isa = PBXNativeTarget;
-  			buildConfigurationList = OO000000000000000000000000 /* Build configuration list for PBXNativeTarget "KontraApp" */;
+  			buildConfigurationList = AA000000000000000000000010 /* Build configuration list for PBXNativeTarget "KontraApp" */;
   			buildPhases = (
-  				DD000000000000000000000000 /* Sources */,
-  				FF000000000000000000000000 /* Frameworks */,
-  				EE000000000000000000000000 /* Resources */,
+  				AA000000000000000000000004 /* Sources */,
+  				AA000000000000000000000006 /* Frameworks */,
+  				AA000000000000000000000005 /* Resources */,
   			);
   			buildRules = (
-  			);
-  			dependencies = (
-  			);
+			);
+			dependencies = (
+			);
   			name = KontraApp;
-  			packageProductDependencies = (
-  			);
   			productName = KontraApp;
-  			productReference = CC000000000000000000000000 /* KontraApp.app */;
+  			productReference = AA000000000000000000000003 /* KontraApp.app */;
   			productType = "com.apple.product-type.application";
   		};
   /* End PBXNativeTarget section */
 
   /* Begin PBXProject section */
-  		AA000000000000000000000000 /* Project object */ = {
+  		AA000000000000000000000001 /* Project object */ = {
   			isa = PBXProject;
   			attributes = {
   				BuildIndependentTargetsInParallel = 1;
   				LastSwiftUpdateCheck = 1500;
   				LastUpgradeCheck = 1500;
-  				TargetAttributes = {
-  					BB000000000000000000000000 = {
-  						CreatedOnToolsVersion = 15.0;
-  					};
-  				};
+  				TargetAttributes = { AA000000000000000000000002 = { CreatedOnToolsVersion = 15.0; }; };
   			};
-  			buildConfigurationList = NN000000000000000000000000 /* Build configuration list for PBXProject "KontraApp" */;
+  			buildConfigurationList = AA000000000000000000000007 /* Build configuration list for PBXProject "KontraApp" */;
   			compatibilityVersion = "Xcode 14.0";
   			developmentRegion = en;
   			hasScannedForEncodings = 0;
-  			knownRegions = (
-  				en,
-  				Base,
-  			);
-  			mainGroup = GG000000000000000000000000;
-  			minimumXcodeVersion = 15.0;
-  			productRefGroup = HH000000000000000000000000 /* Products */;
+  			knownRegions = (en, Base,);
+  			mainGroup = AA000000000000000000000013;
+  			productRefGroup = AA000000000000000000000015 /* Products */;
   			projectDirPath = "";
   			projectRoot = "";
   			targets = (
-  				BB000000000000000000000000 /* KontraApp */,
+  				AA000000000000000000000002 /* KontraApp */,
   			);
   		};
   /* End PBXProject section */
 
   /* Begin PBXResourcesBuildPhase section */
-  		EE000000000000000000000000 /* Resources */ = {
+  		AA000000000000000000000005 /* Resources */ = {
   			isa = PBXResourcesBuildPhase;
   			buildActionMask = 2147483647;
   			files = (
-  			);
+			);
   			runOnlyForDeploymentPostprocessing = 0;
   		};
   /* End PBXResourcesBuildPhase section */
 
   /* Begin PBXSourcesBuildPhase section */
-  		DD000000000000000000000000 /* Sources */ = {
+  		AA000000000000000000000004 /* Sources */ = {
   			isa = PBXSourcesBuildPhase;
   			buildActionMask = 2147483647;
   			files = (
-  				BF0000000000000000000001 /* KontraApp.swift in Sources */,
-				BF0000000000000000000002 /* APIClient.swift in Sources */,
-				BF0000000000000000000003 /* APIModels.swift in Sources */,
-				BF0000000000000000000004 /* AuthManager.swift in Sources */,
-				BF0000000000000000000005 /* KeychainHelper.swift in Sources */,
-				BF0000000000000000000006 /* KontraTheme.swift in Sources */,
-				BF0000000000000000000007 /* LoginView.swift in Sources */,
-				BF0000000000000000000008 /* MainTabView.swift in Sources */,
-				BF0000000000000000000009 /* DashboardView.swift in Sources */,
-				BF0000000000000000000010 /* PortfolioView.swift in Sources */,
-				BF0000000000000000000011 /* LoansView.swift in Sources */,
-				BF0000000000000000000012 /* AssetsView.swift in Sources */,
-				BF0000000000000000000013 /* LoanDetailView.swift in Sources */,
-				BF0000000000000000000014 /* ServicingView.swift in Sources */,
-				BF0000000000000000000015 /* GovernanceView.swift in Sources */,
-				BF0000000000000000000016 /* MarketsView.swift in Sources */,
-				BF0000000000000000000017 /* PoolsView.swift in Sources */,
-				BF0000000000000000000018 /* AIInsightsView.swift in Sources */,
-				BF0000000000000000000019 /* SettingsView.swift in Sources */,
-				BF0000000000000000000020 /* EntityListView.swift in Sources */,
-				BF0000000000000000000021 /* CreateEntitySheet.swift in Sources */,
-				BF0000000000000000000022 /* Date+Extensions.swift in Sources */,
+  				CC0000000000000000000001 /* KontraApp.swift in Sources */,
+				CC0000000000000000000002 /* APIClient.swift in Sources */,
+				CC0000000000000000000003 /* APIModels.swift in Sources */,
+				CC0000000000000000000004 /* AuthManager.swift in Sources */,
+				CC0000000000000000000005 /* KeychainHelper.swift in Sources */,
+				CC0000000000000000000006 /* KontraTheme.swift in Sources */,
+				CC0000000000000000000007 /* LoginView.swift in Sources */,
+				CC0000000000000000000008 /* MainTabView.swift in Sources */,
+				CC0000000000000000000009 /* DashboardView.swift in Sources */,
+				CC0000000000000000000010 /* PortfolioView.swift in Sources */,
+				CC0000000000000000000011 /* LoansView.swift in Sources */,
+				CC0000000000000000000012 /* AssetsView.swift in Sources */,
+				CC0000000000000000000013 /* LoanDetailView.swift in Sources */,
+				CC0000000000000000000014 /* ServicingView.swift in Sources */,
+				CC0000000000000000000015 /* GovernanceView.swift in Sources */,
+				CC0000000000000000000016 /* MarketsView.swift in Sources */,
+				CC0000000000000000000017 /* PoolsView.swift in Sources */,
+				CC0000000000000000000018 /* AIInsightsView.swift in Sources */,
+				CC0000000000000000000019 /* SettingsView.swift in Sources */,
+				CC0000000000000000000020 /* EntityListView.swift in Sources */,
+				CC0000000000000000000021 /* CreateEntitySheet.swift in Sources */,
+				CC0000000000000000000022 /* Date+Extensions.swift in Sources */,
 			);
   			runOnlyForDeploymentPostprocessing = 0;
   		};
   /* End PBXSourcesBuildPhase section */
 
   /* Begin XCBuildConfiguration section */
-  		JJ000000000000000000000000 /* Debug */ = {
+  		AA000000000000000000000008 /* Debug */ = {
   			isa = XCBuildConfiguration;
   			buildSettings = {
   				ALWAYS_SEARCH_USER_PATHS = NO;
-  				ASSET_CATALOG_COMPILER_OPTIMIZATION = space;
-  				CLANG_ANALYZER_NONNULL = YES;
-  				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
-  				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
-  				CLANG_ENABLE_MODULES = YES;
-  				CLANG_ENABLE_OBJC_ARC = YES;
-  				CLANG_ENABLE_OBJC_WEAK = YES;
-  				COPY_PHASE_STRIP = NO;
-  				DEBUG_INFORMATION_FORMAT = dwarf;
-  				ENABLE_STRICT_OBJC_MSGSEND = YES;
-  				ENABLE_TESTABILITY = YES;
-  				GCC_C_LANGUAGE_STANDARD = gnu17;
-  				GCC_DYNAMIC_NO_PIC = NO;
-  				GCC_NO_COMMON_BLOCKS = YES;
+  				CLANG_ENABLE_MODULES = YES; CLANG_ENABLE_OBJC_ARC = YES;
+  				COPY_PHASE_STRIP = NO; DEBUG_INFORMATION_FORMAT = dwarf;
+  				ENABLE_TESTABILITY = YES; GCC_DYNAMIC_NO_PIC = NO;
   				GCC_OPTIMIZATION_LEVEL = 0;
   				GCC_PREPROCESSOR_DEFINITIONS = ("DEBUG=1", "$(inherited)");
-  				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
-  				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
-  				GCC_WARN_UNDECLARED_SELECTOR = YES;
-  				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
-  				GCC_WARN_UNUSED_FUNCTION = YES;
-  				GCC_WARN_UNUSED_VARIABLE = YES;
-  				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
-  				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
-  				MTL_FAST_MATH = YES;
-  				ONLY_ACTIVE_ARCH = YES;
-  				SDKROOT = iphoneos;
-  				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
-  				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+  				IPHONEOS_DEPLOYMENT_TARGET = 17.0; MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+  				ONLY_ACTIVE_ARCH = YES; SDKROOT = iphoneos;
+  				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG; SWIFT_OPTIMIZATION_LEVEL = "-Onone";
   			};
   			name = Debug;
   		};
-  		KK000000000000000000000000 /* Release */ = {
+  		AA000000000000000000000009 /* Release */ = {
   			isa = XCBuildConfiguration;
   			buildSettings = {
   				ALWAYS_SEARCH_USER_PATHS = NO;
-  				ASSET_CATALOG_COMPILER_OPTIMIZATION = space;
-  				CLANG_ANALYZER_NONNULL = YES;
-  				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
-  				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
-  				CLANG_ENABLE_MODULES = YES;
-  				CLANG_ENABLE_OBJC_ARC = YES;
-  				CLANG_ENABLE_OBJC_WEAK = YES;
-  				COPY_PHASE_STRIP = NO;
-  				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+  				CLANG_ENABLE_MODULES = YES; CLANG_ENABLE_OBJC_ARC = YES;
+  				COPY_PHASE_STRIP = NO; DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
   				ENABLE_NS_ASSERTIONS = NO;
-  				ENABLE_STRICT_OBJC_MSGSEND = YES;
-  				GCC_C_LANGUAGE_STANDARD = gnu17;
-  				GCC_NO_COMMON_BLOCKS = YES;
-  				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
-  				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
-  				GCC_WARN_UNDECLARED_SELECTOR = YES;
-  				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
-  				GCC_WARN_UNUSED_FUNCTION = YES;
-  				GCC_WARN_UNUSED_VARIABLE = YES;
-  				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
-  				MTL_FAST_MATH = YES;
-  				SDKROOT = iphoneos;
-  				SWIFT_COMPILATION_MODE = wholemodule;
+  				IPHONEOS_DEPLOYMENT_TARGET = 17.0; MTL_FAST_MATH = YES;
+  				SDKROOT = iphoneos; SWIFT_COMPILATION_MODE = wholemodule;
   				VALIDATE_PRODUCT = YES;
   			};
   			name = Release;
   		};
-  		LL000000000000000000000000 /* Debug */ = {
+  		AA000000000000000000000011 /* Debug */ = {
   			isa = XCBuildConfiguration;
   			buildSettings = {
-  				ASSD_COMPILER_GENERATE_ASSET_SYMBOLS = YES;
-  				CODE_SIGN_STYLE = Automatic;
-  				CURRENT_PROJECT_VERSION = 1;
-  				GENERATE_INFOPLIST_FILE = NO;
-  				INFOPLIST_FILE = KontraApp/Info.plist;
-  				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
-  				LE_SWIFT_VERSION = 5.0;
-  				MARKETING_VERSION = 1.0;
+  				CODE_SIGN_STYLE = Automatic; CURRENT_PROJECT_VERSION = 1;
+  				GENERATE_INFOPLIST_FILE = NO; INFOPLIST_FILE = KontraApp/Info.plist;
+  				IPHONEOS_DEPLOYMENT_TARGET = 17.0; MARKETING_VERSION = 1.0;
   				PRODUCT_BUNDLE_IDENTIFIER = com.kontra.KontraApp;
-  				PRODUCT_NAME = "$(TARGET_NAME)";
-  				SDKROOT = iphoneos;
+  				PRODUCT_NAME = "$(TARGET_NAME)"; SDKROOT = iphoneos;
   				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
-  				SWIFT_EMIT_LOC_STRINGS = YES;
-  				SWIFT_VERSION = 5.0;
+  				SWIFT_EMIT_LOC_STRINGS = YES; SWIFT_VERSION = 5.0;
   				TARGETED_DEVICE_FAMILY = "1,2";
   			};
   			name = Debug;
   		};
-  		MM000000000000000000000000 /* Release */ = {
+  		AA000000000000000000000012 /* Release */ = {
   			isa = XCBuildConfiguration;
   			buildSettings = {
-  				ASSD_COMPILER_GENERATE_ASSET_SYMBOLS = YES;
-  				CODE_SIGN_STYLE = Automatic;
-  				CURRENT_PROJECT_VERSION = 1;
-  				GENERATE_INFOPLIST_FILE = NO;
-  				INFOPLIST_FILE = KontraApp/Info.plist;
-  				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
-  				LE_SWIFT_VERSION = 5.0;
-  				MARKETING_VERSION = 1.0;
+  				CODE_SIGN_STYLE = Automatic; CURRENT_PROJECT_VERSION = 1;
+  				GENERATE_INFOPLIST_FILE = NO; INFOPLIST_FILE = KontraApp/Info.plist;
+  				IPHONEOS_DEPLOYMENT_TARGET = 17.0; MARKETING_VERSION = 1.0;
   				PRODUCT_BUNDLE_IDENTIFIER = com.kontra.KontraApp;
-  				PRODUCT_NAME = "$(TARGET_NAME)";
-  				SDKROOT = iphoneos;
+  				PRODUCT_NAME = "$(TARGET_NAME)"; SDKROOT = iphoneos;
   				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
-  				SWIFT_EMIT_LOC_STRINGS = YES;
-  				SWIFT_VERSION = 5.0;
+  				SWIFT_EMIT_LOC_STRINGS = YES; SWIFT_VERSION = 5.0;
   				TARGETED_DEVICE_FAMILY = "1,2";
   			};
   			name = Release;
@@ -477,26 +417,22 @@
   /* End XCBuildConfiguration section */
 
   /* Begin XCConfigurationList section */
-  		NN000000000000000000000000 /* Build configuration list for PBXProject "KontraApp" */ = {
+  		AA000000000000000000000007 /* Build configuration list for PBXProject "KontraApp" */ = {
   			isa = XCConfigurationList;
   			buildConfigurations = (
-  				JJ000000000000000000000000 /* Debug */,
-  				KK000000000000000000000000 /* Release */,
+  				AA000000000000000000000008 /* Debug */, AA000000000000000000000009 /* Release */,
   			);
-  			defaultConfigurationIsVisible = 0;
-  			defaultConfigurationName = Release;
+  			defaultConfigurationIsVisible = 0; defaultConfigurationName = Release;
   		};
-  		OO000000000000000000000000 /* Build configuration list for PBXNativeTarget "KontraApp" */ = {
+  		AA000000000000000000000010 /* Build configuration list for PBXNativeTarget "KontraApp" */ = {
   			isa = XCConfigurationList;
   			buildConfigurations = (
-  				LL000000000000000000000000 /* Debug */,
-  				MM000000000000000000000000 /* Release */,
+  				AA000000000000000000000011 /* Debug */, AA000000000000000000000012 /* Release */,
   			);
-  			defaultConfigurationIsVisible = 0;
-  			defaultConfigurationName = Release;
+  			defaultConfigurationIsVisible = 0; defaultConfigurationName = Release;
   		};
   /* End XCConfigurationList section */
   	};
-  	rootObject = AA000000000000000000000000 /* Project object */;
+  	rootObject = AA000000000000000000000001 /* Project object */;
   }
   
